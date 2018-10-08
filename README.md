@@ -21,7 +21,7 @@ The challenge of this program is to implement get_next_line() as optimized and s
 
 #include "get_next_line.h"
 
-int		get_next_line(int const fd_const, char **line)
+int get_next_line(int const fd_const, char **line)
 {
 	static	t_gnl	gnl[FD_MAX] = {{{0}, 0, 0, 0}};
 	t_norme			n;
