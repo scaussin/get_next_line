@@ -2,6 +2,8 @@
 | :------: |:---------------:| :------:|:-----:|
 | C      | UNIX | Solo     |113/125|
 
+---
+
 # get_next_line()
 The challenge of this program is to implement get_next_line() as optimized and short as possible.
 ```c
